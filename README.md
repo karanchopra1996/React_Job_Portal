@@ -3,12 +3,14 @@ React_Job_Portal
 This is a job listing project built using React. 
 The project leverages JSON-Server as a mock backend to handle API requests.
 
-![Job Portal Screenshot] (./Screenshots/Home.PNG)
-----------------------------------------------------------------------------
+<img width="746" alt="Home" src="https://github.com/user-attachments/assets/6656e7e6-c2de-4a07-a203-80d1c93c164c">
+
+---------------------------------------------------------------------------
 
 Features-->
 
 -Job Management: Add, delete, and edit jobs seamlessly.
+
 
 -Pages: Separate pages for Home, Jobs, and Add Job.
 
