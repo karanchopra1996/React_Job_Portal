@@ -3,7 +3,7 @@ React_Job_Portal
 This is a job listing project built using React. 
 The project leverages JSON-Server as a mock backend to handle API requests.
 
-![Home Page] (Screenshots/Home.PNG)
+Screenshots/Home.PNG
 ----------------------------------------------------------------------------
 
 Features-->
