@@ -29,7 +29,7 @@ npm install
 
 Run JSON Server:
 
-Start the JSON-Server, which will run on http://localhost:8000:
+Start the JSON-Server, which will run on http://localhost:5000:
 
 npm run server
 
